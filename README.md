@@ -1,6 +1,3 @@
-**Here's a solid, ready-to-use README.md** for your GitHub repo:
-
-```markdown
 # NandGame Journey: Building a Computer from NAND Gates
 
 [![NandGame](https://img.shields.io/badge/NandGame-Play%20Here-blue)](https://nandgame.com/)
